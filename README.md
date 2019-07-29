@@ -11,6 +11,11 @@
 [![photoshop.jpg](https://i.postimg.cc/7ZWdYypq/photoshop.jpg)](https://postimg.cc/68CYYFWP)
 
 
+# Taller Maquetación con Bootstrap
+**_Bootstrap_** es un framework originalmente creado por Twiter, que permite crear interfaces web con CSS y JavaScript, cuya función es adaptar la interfaz del sitio web a diferentes dispositivos. Además de facilitar con la maquetación del sitio web es compatible con procesadores como Less y Sass, con Bootstrap uno se ahorra el tiempo del trabajo de tener que rediseñar un sitio web.
+
+[![Bootstrap.jpg](https://i.postimg.cc/xTryHwrY/Bootstrap.jpg)](https://postimg.cc/RqRHxbVb)
+
 
 Para saber mas sobre este tema u otros temas relacionados puede seguirnos en nuestras redes sociales.
 - _**facebook**_ - [We Devs - Software Developers Community](https://www.facebook.com/WeDevsCommunity/)
